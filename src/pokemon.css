@@ -1,0 +1,15 @@
+.cc-container > .cc-hero {
+  width: 100%;
+}
+.cc-container > .cc-hero > img {
+  display: block;
+  margin: 0 auto;
+}
+.cc-container > .cc-hero > blockquote {
+  text-align: center;
+  border-left: 0;
+}
+.cc-container > img.cc-profile-photo {
+  float: right;
+  display: block;
+}
